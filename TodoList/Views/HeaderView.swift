@@ -1,9 +1,3 @@
-//
-//  HeaderView.swift
-//  TodoList
-//
-//  Created by asset 212 on 19/11/24.
-//
 
 import SwiftUI
 
